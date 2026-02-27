@@ -1,0 +1,1 @@
+1.0.0 – 2026-02-27 – "Munuwa" creo el archivo base del programa "Cálculo del área de un triángulo" en Python.
