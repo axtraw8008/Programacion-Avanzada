@@ -5,5 +5,5 @@
 
 base = 10
 altura = 5
-area = base * altura
+area = (base * altura)/2
 print("el área del triángulo es:", area)    
