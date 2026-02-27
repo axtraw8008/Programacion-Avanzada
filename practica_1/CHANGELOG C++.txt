@@ -1,1 +1,2 @@
 1.0.0 - 2026-02-27 - "axtraw8008" creó el programa "Identificador de Numeros primos" en C++.
+1.0.1 - 2026-02-27 - "Munuwa" actualizo el archivo arreglando un error en la lectura de los datos y errores en la documentacion inicial del archivo, asi mismo se cambio el nombre del archivo para mantener una estructura comun.
