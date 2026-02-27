@@ -1,0 +1,1 @@
+1.0.0 - 2026-02-27 - "axtraw8008" creó el programa "Identificador de Numeros primos" en C++.
