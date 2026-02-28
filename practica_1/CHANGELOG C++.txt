@@ -1,5 +1,5 @@
 1.0.0 - 2026-02-27 - "axtraw8008" creó el programa "Identificador de Numeros primos" en C++.
-  1.0.1 - 2026-02-27 - "Valanny" actualizo el archivo arreglando un error en la lectura de los datos y errores en la documentacion inicial del archivo, asi mismo se cambio el nombre del archivo para mantener una estructura comun.
+1.0.1 - 2026-02-27 - "Valanny" actualizo el archivo arreglando un error en la lectura de los datos y errores en la documentacion inicial del archivo, asi mismo se cambio el nombre del archivo para mantener una estructura comun.
 1.1.0 - 2026-02-27 - "axtraw8008" actualizo el archivo cambiando el tipo de dato que leia el programa para permitir ingresar numeros decimales. 
 1.2.0 - 2026-02-27 - "axtraw8008" actualizo el archivo especificando que las medidas son en metros, asi como solucionar un error dentro de la delcaracion de variables.
 2.0.0 - 2026-02-27 - "axtraw8008" actualizo el archivo agregando la opcion de elegir entre un triangulo o un cuadrado al momento de calcular la figura.
