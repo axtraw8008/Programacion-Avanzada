@@ -1,2 +1,4 @@
-1.0.0 – 2026-02-27 – "Munuwa" creo el archivo base del programa "Cálculo del área de un triángulo" en Python.
+1.0.0 – 2026-02-27 – "Valanny" creo el archivo base del programa "Cálculo del área de un triángulo" en Python.
 1.1.0 - 2026-02-27 - "axtraw8008" actualizó el archivo "Cálculo del área de un triángulo" añadiendo la opción al usuario de ingresas los datos necesarios desde la consola con dos comandos "input"
+2.0.0 - 2026-02-27 - "Valanny" se actualizo el programa a su version 2.0.0 agregando la opcion de decidir entre el area de un cuadrado y un triangulo.
+## Se corrigio el nombre de "Munuwa" por "Valanny" para mejor identificacion de usuarios en el repositorio.
