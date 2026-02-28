@@ -4,3 +4,4 @@
 1.2.0 - 2026-02-27 - "axtraw8008" actualizo el archivo especificando que las medidas son en metros, asi como solucionar un error dentro de la delcaracion de variables.
 2.0.0 - 2026-02-27 - "axtraw8008" actualizo el archivo agregando la opcion de elegir entre un triangulo o un cuadrado al momento de calcular la figura.
 2.1.0 - 2026-02-27 - "axtraw8008" actualizo el archivo corrigiendo un error de ortografia, asi como una forma mas limpia de calcular el area del cuadrado junto al nombre correcto de la figura, junto a una correcion en la documentacion dentro del codigo.
+## Se corrigio el nombre de "Munuwa" por "Valanny" para mejor identificacion de usuarios en el repositorio.
